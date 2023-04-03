@@ -1,3 +1,4 @@
+#Modified from @binli123
 import os
 import torch
 from byol_pytorch import BYOL
